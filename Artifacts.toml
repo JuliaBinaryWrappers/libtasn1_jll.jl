@@ -1,0 +1,143 @@
+[[libtasn1]]
+arch = "aarch64"
+git-tree-sha1 = "4c51b51702610e84e6a3de058595c84855b1a9ff"
+os = "macos"
+
+    [[libtasn1.download]]
+    sha256 = "152c132eef498de9ab31c6b6f7767f3c0395fa10b3e7d774f8f30749b8b64596"
+    url = "https://github.com/JuliaBinaryWrappers/libtasn1_jll.jl/releases/download/libtasn1-v4.19.0+0/libtasn1.v4.19.0.aarch64-apple-darwin.tar.gz"
+[[libtasn1]]
+arch = "aarch64"
+git-tree-sha1 = "e8e0ba15a6bc2ac7133ac40d1ef1f5a456e3a85a"
+libc = "glibc"
+os = "linux"
+
+    [[libtasn1.download]]
+    sha256 = "0dde75404a5567534675e9c194745ce95dbdec02d8016c9b4327ec62f7e2828a"
+    url = "https://github.com/JuliaBinaryWrappers/libtasn1_jll.jl/releases/download/libtasn1-v4.19.0+0/libtasn1.v4.19.0.aarch64-linux-gnu.tar.gz"
+[[libtasn1]]
+arch = "aarch64"
+git-tree-sha1 = "e6b9d11c13ae2edb7a00c0e6afa771d15d84b5c1"
+libc = "musl"
+os = "linux"
+
+    [[libtasn1.download]]
+    sha256 = "65c287948faef870b3842a819ccdbd7bebaef3b4725267e1f52fb699e1bf65ac"
+    url = "https://github.com/JuliaBinaryWrappers/libtasn1_jll.jl/releases/download/libtasn1-v4.19.0+0/libtasn1.v4.19.0.aarch64-linux-musl.tar.gz"
+[[libtasn1]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "5a7297faef65aa8f9e822455f542c55c7874e3f4"
+libc = "glibc"
+os = "linux"
+
+    [[libtasn1.download]]
+    sha256 = "fc2accfb3342588447410d95e684a09cde7c5e430850e7eecf0a2909c8f5c5d2"
+    url = "https://github.com/JuliaBinaryWrappers/libtasn1_jll.jl/releases/download/libtasn1-v4.19.0+0/libtasn1.v4.19.0.armv6l-linux-gnueabihf.tar.gz"
+[[libtasn1]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "4ce96aebc09295e98e2c93313e3f8958be14f193"
+libc = "musl"
+os = "linux"
+
+    [[libtasn1.download]]
+    sha256 = "2dcdd1ba2045dd56a44e5d3a53b4b77ec109f92ebcfbc22333950a1b0645ceae"
+    url = "https://github.com/JuliaBinaryWrappers/libtasn1_jll.jl/releases/download/libtasn1-v4.19.0+0/libtasn1.v4.19.0.armv6l-linux-musleabihf.tar.gz"
+[[libtasn1]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "d1452fce68aa923d2b32377b0fdd184841b48974"
+libc = "glibc"
+os = "linux"
+
+    [[libtasn1.download]]
+    sha256 = "e6c1eefbb86bd1a9c1f0fb4923b5c0915634044d5565e99329eea8f1f82ae8f4"
+    url = "https://github.com/JuliaBinaryWrappers/libtasn1_jll.jl/releases/download/libtasn1-v4.19.0+0/libtasn1.v4.19.0.armv7l-linux-gnueabihf.tar.gz"
+[[libtasn1]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "a21d3c9d5d9637afc9df9f3b4abe3308c018fa1f"
+libc = "musl"
+os = "linux"
+
+    [[libtasn1.download]]
+    sha256 = "eaa06e0e181beabd58e4ea05d01a47a75a688577e8f4effce3da5a18771925d0"
+    url = "https://github.com/JuliaBinaryWrappers/libtasn1_jll.jl/releases/download/libtasn1-v4.19.0+0/libtasn1.v4.19.0.armv7l-linux-musleabihf.tar.gz"
+[[libtasn1]]
+arch = "i686"
+git-tree-sha1 = "851ad52fc3c060585f11fad3b211341267b8807b"
+libc = "glibc"
+os = "linux"
+
+    [[libtasn1.download]]
+    sha256 = "f7baa540dd6108ec7d534a813585836dc3531e394bee57f2500663b9d7b728d0"
+    url = "https://github.com/JuliaBinaryWrappers/libtasn1_jll.jl/releases/download/libtasn1-v4.19.0+0/libtasn1.v4.19.0.i686-linux-gnu.tar.gz"
+[[libtasn1]]
+arch = "i686"
+git-tree-sha1 = "452c7aa35cf67113bd10bd97178beaf57470147f"
+libc = "musl"
+os = "linux"
+
+    [[libtasn1.download]]
+    sha256 = "42c36f2ebf87780fd9b14cf9c00c269e0c75d685fdb9ec4998e8a5f95db7dd14"
+    url = "https://github.com/JuliaBinaryWrappers/libtasn1_jll.jl/releases/download/libtasn1-v4.19.0+0/libtasn1.v4.19.0.i686-linux-musl.tar.gz"
+[[libtasn1]]
+arch = "i686"
+git-tree-sha1 = "fd0bbe777a4c3d8f6973c86ccc6e6f2d0ad41dac"
+os = "windows"
+
+    [[libtasn1.download]]
+    sha256 = "f475593f0141daa43fc591397a4ba6f12fe4f575449ca4dd60343b2dc96dbc96"
+    url = "https://github.com/JuliaBinaryWrappers/libtasn1_jll.jl/releases/download/libtasn1-v4.19.0+0/libtasn1.v4.19.0.i686-w64-mingw32.tar.gz"
+[[libtasn1]]
+arch = "powerpc64le"
+git-tree-sha1 = "81f46b5c080a505489697c850d2c3109505edacc"
+libc = "glibc"
+os = "linux"
+
+    [[libtasn1.download]]
+    sha256 = "29056b426755bce81af2e093d6a178a5c6b67d371da4cbe092fe2e61a1b8373a"
+    url = "https://github.com/JuliaBinaryWrappers/libtasn1_jll.jl/releases/download/libtasn1-v4.19.0+0/libtasn1.v4.19.0.powerpc64le-linux-gnu.tar.gz"
+[[libtasn1]]
+arch = "x86_64"
+git-tree-sha1 = "bbe0e896a0fc585acfad08575c9fbfd4b3e0b563"
+os = "macos"
+
+    [[libtasn1.download]]
+    sha256 = "bff5a835098496b022505e7213fa60d72d71e889a5e309f8e58c4a42e3328803"
+    url = "https://github.com/JuliaBinaryWrappers/libtasn1_jll.jl/releases/download/libtasn1-v4.19.0+0/libtasn1.v4.19.0.x86_64-apple-darwin.tar.gz"
+[[libtasn1]]
+arch = "x86_64"
+git-tree-sha1 = "31a6feccba787e932caf34963c7f765b4087d62f"
+libc = "glibc"
+os = "linux"
+
+    [[libtasn1.download]]
+    sha256 = "2ae8fd9dc0ed6a88b3aeeec7aa5d2ab442d3f2782696b4ce652b4012368b4701"
+    url = "https://github.com/JuliaBinaryWrappers/libtasn1_jll.jl/releases/download/libtasn1-v4.19.0+0/libtasn1.v4.19.0.x86_64-linux-gnu.tar.gz"
+[[libtasn1]]
+arch = "x86_64"
+git-tree-sha1 = "5b96ee552cec792acda1fa3d41f3230aa7aec2a4"
+libc = "musl"
+os = "linux"
+
+    [[libtasn1.download]]
+    sha256 = "62e3e4c1cebffa0a4cc24f094583748c02c7ef84b30f46d21b551ff143f2ad7f"
+    url = "https://github.com/JuliaBinaryWrappers/libtasn1_jll.jl/releases/download/libtasn1-v4.19.0+0/libtasn1.v4.19.0.x86_64-linux-musl.tar.gz"
+[[libtasn1]]
+arch = "x86_64"
+git-tree-sha1 = "87d0f4079a48b9e927c3754a41c03e33cea2769c"
+os = "freebsd"
+
+    [[libtasn1.download]]
+    sha256 = "3072e0200b90297ed5a15ca5993bea5d08821909b3f5cbf1fe1e47b12b9906ed"
+    url = "https://github.com/JuliaBinaryWrappers/libtasn1_jll.jl/releases/download/libtasn1-v4.19.0+0/libtasn1.v4.19.0.x86_64-unknown-freebsd.tar.gz"
+[[libtasn1]]
+arch = "x86_64"
+git-tree-sha1 = "02994a81006ff68163bbda1628ce9eb933be1f4e"
+os = "windows"
+
+    [[libtasn1.download]]
+    sha256 = "908301e6654b790277ae2779c7ee2b65db1572c9ff7345876391233f14268482"
+    url = "https://github.com/JuliaBinaryWrappers/libtasn1_jll.jl/releases/download/libtasn1-v4.19.0+0/libtasn1.v4.19.0.x86_64-w64-mingw32.tar.gz"
